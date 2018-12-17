@@ -1,4 +1,4 @@
-# text_bg
+
 one function to create a background
 <h1> text_bg</h1>
 
